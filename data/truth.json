@@ -1,0 +1,9802 @@
+{
+ "tx-00000": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00001": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00002": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00003": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00004": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00005": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00006": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00007": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00008": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00009": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00010": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00011": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00012": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00013": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00014": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00015": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00016": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00017": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00018": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00019": {
+  "group": null,
+  "business": true,
+  "tag": "injection"
+ },
+ "tx-00020": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00021": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00022": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00023": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00024": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00025": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00026": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00027": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00028": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00029": {
+  "group": "auto_deposit",
+  "business": false,
+  "tag": null
+ },
+ "tx-00030": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00031": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00032": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00033": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00034": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00035": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00036": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00037": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00038": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00039": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00040": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00041": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00042": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00043": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00044": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00045": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00046": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00047": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00048": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00049": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00050": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00051": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00052": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00053": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00054": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00055": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00056": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00057": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00058": {
+  "group": "auto_deposit",
+  "business": false,
+  "tag": null
+ },
+ "tx-00059": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00060": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00061": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00062": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00063": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00064": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00065": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00066": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00067": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00068": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00069": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00070": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00071": {
+  "group": null,
+  "business": false,
+  "tag": "looks_wrong"
+ },
+ "tx-00072": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00073": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00074": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00075": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00076": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00077": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00078": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00079": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00080": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00081": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00082": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00083": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00084": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00085": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00086": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00087": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00088": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00089": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00090": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00091": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00092": {
+  "group": "auto_deposit",
+  "business": false,
+  "tag": null
+ },
+ "tx-00093": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00094": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00095": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00096": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00097": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00098": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00099": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00100": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00101": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00102": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00103": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00104": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00105": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00106": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00107": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00108": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00109": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00110": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00111": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00112": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00113": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00114": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00115": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00116": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00117": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00118": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00119": {
+  "group": "auto_deposit",
+  "business": false,
+  "tag": null
+ },
+ "tx-00120": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00121": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00122": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00123": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00124": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00125": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00126": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00127": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00128": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00129": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00130": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00131": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00132": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00133": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00134": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00135": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00136": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00137": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00138": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00139": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00140": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00141": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00142": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00143": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00144": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00145": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00146": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00147": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00148": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00149": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00150": {
+  "group": "auto_deposit",
+  "business": false,
+  "tag": null
+ },
+ "tx-00151": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00152": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00153": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00154": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00155": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00156": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00157": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00158": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00159": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00160": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00161": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00162": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00163": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00164": {
+  "group": null,
+  "business": false,
+  "tag": "looks_wrong"
+ },
+ "tx-00165": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00166": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00167": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00168": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00169": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00170": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00171": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00172": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00173": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00174": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00175": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00176": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00177": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00178": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00179": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00180": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00181": {
+  "group": "auto_deposit",
+  "business": false,
+  "tag": null
+ },
+ "tx-00182": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00183": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00184": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00185": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00186": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00187": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00188": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00189": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00190": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00191": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00192": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00193": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00194": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00195": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00196": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00197": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-00198": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00199": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00200": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00201": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00202": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00203": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00204": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00205": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00206": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00207": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00208": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00209": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00210": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-00211": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00212": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00213": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00214": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00215": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00216": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00217": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00218": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00219": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00220": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00221": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00222": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00223": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-00224": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00225": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00226": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00227": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00228": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00229": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00230": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00231": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00232": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00233": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-00234": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00235": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00236": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-00237": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00238": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00239": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00240": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00241": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00242": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00243": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00244": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00245": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00246": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00247": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00248": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00249": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00250": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00251": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00252": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00253": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00254": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00255": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00256": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00257": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00258": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00259": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00260": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00261": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00262": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00263": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00264": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00265": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00266": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00267": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00268": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00269": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00270": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00271": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00272": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00273": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00274": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00275": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00276": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00277": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00278": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00279": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00280": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00281": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00282": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00283": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00284": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00285": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-00286": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00287": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00288": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00289": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-00290": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00291": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00292": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00293": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00294": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00295": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00296": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00297": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00298": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00299": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00300": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00301": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00302": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00303": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00304": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00305": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00306": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00307": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00308": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00309": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00310": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00311": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00312": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00313": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00314": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00315": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00316": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00317": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00318": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00319": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00320": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00321": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00322": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00323": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00324": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00325": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00326": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00327": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00328": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00329": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00330": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00331": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00332": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00333": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00334": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00335": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00336": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00337": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00338": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00339": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00340": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00341": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00342": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00343": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00344": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00345": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00346": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00347": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00348": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00349": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00350": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00351": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00352": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00353": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00354": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-00355": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00356": {
+  "group": "hr_garnishment",
+  "business": true,
+  "tag": null
+ },
+ "tx-00357": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-00358": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00359": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00360": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00361": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00362": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00363": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-00364": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00365": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00366": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00367": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00368": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00369": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00370": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00371": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00372": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-00373": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00374": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00375": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00376": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00377": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00378": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00379": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00380": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-00381": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00382": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00383": {
+  "group": "hr_garnishment",
+  "business": true,
+  "tag": null
+ },
+ "tx-00384": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00385": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00386": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00387": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00388": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00389": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00390": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00391": {
+  "group": "hr_garnishment",
+  "business": true,
+  "tag": null
+ },
+ "tx-00392": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-00393": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00394": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00395": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00396": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00397": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00398": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-00399": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00400": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-00401": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00402": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00403": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00404": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00405": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-00406": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00407": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00408": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00409": {
+  "group": "hr_garnishment",
+  "business": true,
+  "tag": null
+ },
+ "tx-00410": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00411": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00412": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00413": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00414": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00415": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00416": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00417": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00418": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00419": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00420": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-00421": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00422": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-00423": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00424": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00425": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00426": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00427": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00428": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00429": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00430": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00431": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00432": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00433": {
+  "group": "hr_garnishment",
+  "business": true,
+  "tag": null
+ },
+ "tx-00434": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-00435": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00436": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00437": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00438": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00439": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00440": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-00441": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-00442": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00443": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00444": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00445": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00446": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00447": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00448": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00449": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00450": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00451": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00452": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00453": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00454": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-00455": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00456": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-00457": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00458": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00459": {
+  "group": "hr_garnishment",
+  "business": true,
+  "tag": null
+ },
+ "tx-00460": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00461": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00462": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00463": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00464": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00465": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00466": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00467": {
+  "group": "hr_garnishment",
+  "business": true,
+  "tag": null
+ },
+ "tx-00468": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00469": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00470": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00471": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00472": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00473": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-00474": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-00475": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00476": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00477": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-00478": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00479": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00480": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00481": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00482": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00483": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00484": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00485": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00486": {
+  "group": "hr_garnishment",
+  "business": true,
+  "tag": null
+ },
+ "tx-00487": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00488": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00489": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00490": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00491": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00492": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00493": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00494": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-00495": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00496": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00497": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00498": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-00499": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00500": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00501": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00502": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00503": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00504": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00505": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00506": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00507": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00508": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00509": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00510": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00511": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00512": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00513": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00514": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00515": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00516": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00517": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00518": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00519": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00520": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00521": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00522": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00523": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00524": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00525": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00526": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00527": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00528": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00529": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00530": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00531": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00532": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00533": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00534": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00535": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00536": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00537": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00538": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00539": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": null
+ },
+ "tx-00540": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00541": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00542": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00543": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00544": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00545": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00546": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00547": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00548": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00549": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00550": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00551": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00552": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00553": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00554": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00555": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00556": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00557": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00558": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00559": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00560": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00561": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00562": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00563": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00564": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00565": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00566": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00567": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00568": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00569": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00570": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00571": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00572": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00573": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00574": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00575": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00576": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00577": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00578": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00579": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00580": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00581": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00582": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00583": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00584": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00585": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00586": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00587": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00588": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00589": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00590": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00591": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00592": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00593": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00594": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00595": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00596": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00597": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00598": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00599": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00600": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00601": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00602": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00603": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00604": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00605": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00606": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00607": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00608": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00609": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00610": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00611": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00612": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00613": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00614": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00615": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00616": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00617": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00618": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": null
+ },
+ "tx-00619": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00620": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00621": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00622": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00623": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00624": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00625": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00626": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00627": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00628": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00629": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00630": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00631": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00632": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00633": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00634": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00635": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00636": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00637": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00638": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00639": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00640": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00641": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00642": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00643": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00644": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00645": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00646": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00647": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00648": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00649": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00650": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00651": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00652": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00653": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00654": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00655": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00656": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00657": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00658": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00659": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00660": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00661": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00662": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00663": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00664": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00665": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00666": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00667": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00668": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00669": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00670": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00671": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00672": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00673": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00674": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00675": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00676": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00677": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00678": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00679": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00680": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00681": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00682": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00683": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00684": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00685": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00686": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00687": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00688": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00689": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00690": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00691": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00692": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00693": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00694": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00695": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00696": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00697": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00698": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00699": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00700": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": null
+ },
+ "tx-00701": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00702": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00703": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00704": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00705": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00706": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00707": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00708": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00709": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00710": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00711": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00712": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00713": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00714": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00715": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00716": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00717": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00718": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00719": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00720": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00721": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00722": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00723": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00724": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00725": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00726": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00727": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00728": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00729": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00730": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00731": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00732": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00733": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00734": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00735": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00736": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00737": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00738": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00739": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00740": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00741": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00742": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00743": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00744": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00745": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00746": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00747": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00748": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00749": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00750": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00751": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00752": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00753": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00754": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00755": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00756": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00757": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00758": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00759": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00760": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00761": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00762": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00763": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00764": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00765": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00766": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00767": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00768": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00769": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00770": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00771": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00772": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00773": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00774": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00775": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00776": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00777": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00778": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": null
+ },
+ "tx-00779": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00780": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00781": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00782": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00783": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00784": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00785": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00786": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00787": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00788": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00789": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00790": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00791": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00792": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00793": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00794": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00795": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00796": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00797": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00798": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00799": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00800": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00801": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00802": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00803": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00804": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00805": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00806": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00807": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00808": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00809": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00810": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00811": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00812": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00813": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00814": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00815": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00816": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00817": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00818": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00819": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00820": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00821": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00822": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00823": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00824": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00825": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00826": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00827": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00828": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00829": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00830": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00831": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00832": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00833": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00834": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00835": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00836": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00837": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00838": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00839": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": null
+ },
+ "tx-00840": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": null
+ },
+ "tx-00841": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00842": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00843": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00844": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00845": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00846": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00847": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00848": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00849": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00850": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00851": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00852": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00853": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00854": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00855": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00856": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00857": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00858": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00859": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00860": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00861": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00862": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00863": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00864": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00865": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00866": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00867": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00868": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00869": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00870": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00871": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00872": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00873": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00874": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00875": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00876": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00877": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00878": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00879": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00880": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00881": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00882": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00883": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00884": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00885": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00886": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00887": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00888": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00889": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00890": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00891": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00892": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00893": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00894": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00895": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00896": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00897": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00898": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00899": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00900": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00901": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": null
+ },
+ "tx-00902": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00903": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00904": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00905": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00906": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00907": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00908": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00909": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00910": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00911": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00912": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00913": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00914": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00915": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00916": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00917": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00918": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00919": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00920": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00921": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00922": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00923": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00924": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00925": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00926": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00927": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00928": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00929": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00930": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00931": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00932": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00933": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00934": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00935": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00936": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00937": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00938": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00939": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00940": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00941": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00942": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00943": {
+  "group": "active_advance",
+  "business": true,
+  "tag": "injection"
+ },
+ "tx-00944": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00945": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00946": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00947": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00948": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00949": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00950": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00951": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00952": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00953": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-00954": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00955": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00956": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00957": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00958": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00959": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00960": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00961": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00962": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00963": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00964": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00965": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": null
+ },
+ "tx-00966": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": null
+ },
+ "tx-00967": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00968": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00969": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00970": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00971": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00972": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00973": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00974": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00975": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00976": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00977": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00978": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00979": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00980": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00981": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00982": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00983": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00984": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00985": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00986": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-00987": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00988": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-00989": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00990": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00991": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-00992": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-00993": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00994": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-00995": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00996": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-00997": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-00998": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-00999": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01000": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01001": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01002": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01003": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01004": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01005": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01006": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01007": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01008": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01009": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01010": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01011": {
+  "group": "not_avg_revenue",
+  "business": true,
+  "tag": null
+ },
+ "tx-01012": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01013": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01014": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01015": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01016": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01017": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01018": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01019": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01020": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01021": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01022": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01023": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01024": {
+  "group": "not_avg_revenue",
+  "business": true,
+  "tag": null
+ },
+ "tx-01025": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": null
+ },
+ "tx-01026": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01027": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01028": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01029": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01030": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01031": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01032": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01033": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01034": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01035": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01036": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01037": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01038": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01039": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01040": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01041": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01042": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01043": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01044": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01045": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01046": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01047": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01048": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01049": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01050": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01051": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01052": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01053": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01054": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01055": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01056": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01057": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01058": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01059": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01060": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01061": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01062": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01063": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01064": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01065": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01066": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01067": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01068": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01069": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01070": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01071": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01072": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01073": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01074": {
+  "group": "not_avg_revenue",
+  "business": true,
+  "tag": null
+ },
+ "tx-01075": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": null
+ },
+ "tx-01076": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01077": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01078": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01079": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01080": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01081": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01082": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01083": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01084": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01085": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01086": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01087": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01088": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01089": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01090": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01091": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01092": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01093": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01094": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01095": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01096": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01097": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01098": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01099": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01100": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01101": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01102": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01103": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01104": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01105": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01106": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01107": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01108": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01109": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01110": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01111": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01112": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01113": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01114": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01115": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01116": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01117": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01118": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01119": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01120": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01121": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01122": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01123": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01124": {
+  "group": "not_avg_revenue",
+  "business": true,
+  "tag": null
+ },
+ "tx-01125": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": null
+ },
+ "tx-01126": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01127": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01128": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01129": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01130": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01131": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01132": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01133": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01134": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01135": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01136": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01137": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01138": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01139": {
+  "group": "not_avg_revenue",
+  "business": true,
+  "tag": null
+ },
+ "tx-01140": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01141": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01142": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01143": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01144": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01145": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01146": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01147": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01148": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01149": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01150": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01151": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01152": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01153": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01154": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01155": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01156": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01157": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01158": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01159": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01160": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01161": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01162": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01163": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01164": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01165": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01166": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01167": {
+  "group": "ucc",
+  "business": true,
+  "tag": null
+ },
+ "tx-01168": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01169": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01170": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01171": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01172": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01173": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01174": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01175": {
+  "group": "not_avg_revenue",
+  "business": true,
+  "tag": null
+ },
+ "tx-01176": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01177": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01178": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01179": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01180": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01181": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01182": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01183": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01184": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01185": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01186": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01187": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01188": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01189": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01190": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01191": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01192": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01193": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01194": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01195": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01196": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01197": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01198": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01199": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01200": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01201": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01202": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01203": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01204": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01205": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01206": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01207": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01208": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01209": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01210": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01211": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01212": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01213": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01214": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01215": {
+  "group": "ucc",
+  "business": true,
+  "tag": null
+ },
+ "tx-01216": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01217": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01218": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01219": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01220": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01221": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01222": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01223": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01224": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01225": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01226": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01227": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01228": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01229": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01230": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01231": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01232": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01233": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01234": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01235": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01236": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01237": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01238": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01239": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01240": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01241": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01242": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01243": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01244": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01245": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01246": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01247": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01248": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01249": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01250": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01251": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01252": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01253": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01254": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01255": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01256": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01257": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01258": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01259": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01260": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01261": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01262": {
+  "group": "ucc",
+  "business": true,
+  "tag": null
+ },
+ "tx-01263": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01264": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01265": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01266": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01267": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01268": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01269": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01270": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01271": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01272": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01273": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01274": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01275": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01276": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01277": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01278": {
+  "group": "hr_debt_settlement",
+  "business": false,
+  "tag": null
+ },
+ "tx-01279": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01280": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01281": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01282": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01283": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01284": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01285": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01286": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01287": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01288": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01289": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01290": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01291": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01292": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01293": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01294": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01295": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01296": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01297": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01298": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01299": {
+  "group": "hr_bankruptcy",
+  "business": false,
+  "tag": null
+ },
+ "tx-01300": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01301": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01302": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01303": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01304": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01305": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01306": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01307": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01308": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01309": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01310": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01311": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01312": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01313": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01314": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01315": {
+  "group": "ucc",
+  "business": true,
+  "tag": null
+ },
+ "tx-01316": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01317": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01318": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01319": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01320": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01321": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01322": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01323": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01324": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01325": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01326": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01327": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01328": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01329": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01330": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01331": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01332": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01333": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01334": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01335": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01336": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01337": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01338": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01339": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01340": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01341": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01342": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01343": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01344": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01345": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01346": {
+  "group": "hr_debt_settlement",
+  "business": false,
+  "tag": null
+ },
+ "tx-01347": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01348": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01349": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01350": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01351": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01352": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01353": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01354": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01355": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01356": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01357": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01358": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01359": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01360": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01361": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01362": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01363": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01364": {
+  "group": "hr_bankruptcy",
+  "business": false,
+  "tag": null
+ },
+ "tx-01365": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01366": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01367": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01368": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01369": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01370": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01371": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01372": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01373": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01374": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01375": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01376": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01377": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01378": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01379": {
+  "group": "ucc",
+  "business": true,
+  "tag": null
+ },
+ "tx-01380": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01381": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01382": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01383": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01384": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01385": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01386": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01387": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01388": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01389": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01390": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01391": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01392": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01393": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01394": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01395": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01396": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01397": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01398": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01399": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01400": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01401": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01402": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01403": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01404": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01405": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01406": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01407": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01408": {
+  "group": "hr_debt_settlement",
+  "business": false,
+  "tag": null
+ },
+ "tx-01409": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01410": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01411": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01412": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01413": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01414": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01415": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01416": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01417": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01418": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01419": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01420": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01421": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01422": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01423": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01424": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01425": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01426": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01427": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01428": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01429": {
+  "group": "hr_bankruptcy",
+  "business": false,
+  "tag": null
+ },
+ "tx-01430": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01431": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01432": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01433": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01434": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01435": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01436": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01437": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01438": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01439": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01440": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01441": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01442": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01443": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01444": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01445": {
+  "group": "ucc",
+  "business": true,
+  "tag": null
+ },
+ "tx-01446": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01447": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01448": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01449": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01450": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01451": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01452": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01453": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01454": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01455": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01456": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01457": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01458": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01459": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01460": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01461": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01462": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01463": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01464": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01465": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01466": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01467": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01468": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01469": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01470": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01471": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01472": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01473": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01474": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01475": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01476": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01477": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01478": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01479": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01480": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01481": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01482": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01483": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01484": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01485": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01486": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01487": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01488": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01489": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01490": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01491": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01492": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01493": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01494": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01495": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01496": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01497": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01498": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01499": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01500": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01501": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01502": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01503": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01504": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01505": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01506": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01507": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01508": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01509": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01510": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01511": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01512": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01513": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01514": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01515": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01516": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01517": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01518": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01519": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01520": {
+  "group": "ucc",
+  "business": true,
+  "tag": null
+ },
+ "tx-01521": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01522": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01523": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01524": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01525": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01526": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01527": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01528": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01529": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01530": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01531": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01532": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01533": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01534": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01535": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01536": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01537": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01538": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01539": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01540": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01541": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01542": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01543": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01544": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01545": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01546": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01547": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01548": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01549": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01550": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01551": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01552": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01553": {
+  "group": "ucc",
+  "business": true,
+  "tag": null
+ },
+ "tx-01554": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01555": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01556": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01557": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01558": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01559": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01560": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01561": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01562": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01563": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01564": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01565": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01566": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01567": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01568": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01569": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01570": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01571": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01572": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01573": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01574": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01575": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01576": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01577": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01578": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01579": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01580": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01581": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01582": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01583": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01584": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01585": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01586": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01587": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01588": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01589": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01590": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01591": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01592": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01593": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01594": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01595": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01596": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01597": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01598": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01599": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01600": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01601": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01602": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01603": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01604": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01605": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01606": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01607": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01608": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01609": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01610": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01611": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01612": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01613": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01614": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01615": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01616": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01617": {
+  "group": "ucc",
+  "business": true,
+  "tag": null
+ },
+ "tx-01618": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01619": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01620": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01621": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01622": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01623": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01624": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01625": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01626": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01627": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01628": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01629": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01630": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01631": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01632": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01633": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01634": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01635": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01636": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01637": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01638": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01639": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01640": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01641": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01642": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01643": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01644": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01645": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01646": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01647": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01648": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01649": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01650": {
+  "group": "ucc",
+  "business": true,
+  "tag": null
+ },
+ "tx-01651": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01652": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01653": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01654": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01655": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01656": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01657": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01658": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01659": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01660": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01661": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01662": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01663": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01664": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01665": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01666": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01667": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01668": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01669": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01670": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01671": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01672": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01673": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01674": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01675": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01676": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01677": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01678": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01679": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01680": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01681": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01682": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01683": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01684": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01685": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01686": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01687": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01688": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01689": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01690": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01691": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01692": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01693": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01694": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01695": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01696": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01697": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01698": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01699": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01700": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01701": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01702": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01703": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01704": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01705": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01706": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01707": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01708": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01709": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01710": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01711": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01712": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01713": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01714": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01715": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01716": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01717": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01718": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01719": {
+  "group": "ucc",
+  "business": true,
+  "tag": null
+ },
+ "tx-01720": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01721": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01722": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01723": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01724": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01725": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01726": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01727": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01728": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01729": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01730": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01731": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01732": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01733": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01734": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01735": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01736": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01737": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01738": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01739": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01740": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01741": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01742": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01743": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01744": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01745": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01746": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01747": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01748": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01749": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01750": {
+  "group": "ucc",
+  "business": true,
+  "tag": null
+ },
+ "tx-01751": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01752": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01753": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01754": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01755": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01756": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01757": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01758": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01759": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01760": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01761": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01762": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01763": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01764": {
+  "group": "active_advance",
+  "business": true,
+  "tag": null
+ },
+ "tx-01765": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01766": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01767": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01768": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01769": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01770": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01771": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01772": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01773": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01774": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-01775": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01776": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01777": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01778": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01779": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01780": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01781": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01782": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01783": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01784": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01785": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01786": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-01787": {
+  "group": "not_avg_revenue",
+  "business": true,
+  "tag": null
+ },
+ "tx-01788": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01789": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01790": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01791": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-01792": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01793": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01794": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01795": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01796": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01797": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01798": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01799": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01800": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01801": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01802": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-01803": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-01804": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01805": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01806": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01807": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01808": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01809": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01810": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01811": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01812": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01813": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01814": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01815": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01816": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01817": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-01818": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01819": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01820": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-01821": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01822": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01823": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01824": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-01825": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01826": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01827": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01828": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01829": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01830": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01831": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01832": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01833": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01834": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01835": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01836": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-01837": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01838": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01839": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01840": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01841": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01842": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01843": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01844": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01845": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01846": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01847": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01848": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01849": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01850": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-01851": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-01852": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01853": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01854": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01855": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01856": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01857": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-01858": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01859": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01860": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01861": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01862": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01863": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01864": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01865": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01866": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01867": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01868": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-01869": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01870": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01871": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01872": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01873": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01874": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01875": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01876": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01877": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01878": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01879": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01880": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01881": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-01882": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-01883": {
+  "group": "not_avg_revenue",
+  "business": true,
+  "tag": null
+ },
+ "tx-01884": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01885": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01886": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01887": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-01888": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01889": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01890": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01891": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01892": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01893": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01894": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01895": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01896": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01897": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01898": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01899": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01900": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01901": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-01902": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-01903": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01904": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01905": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01906": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01907": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01908": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01909": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01910": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01911": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01912": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01913": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01914": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01915": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01916": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01917": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01918": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-01919": {
+  "group": "internal_transfer",
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01920": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01921": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-01922": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01923": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01924": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01925": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01926": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01927": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01928": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01929": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01930": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01931": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-01932": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01933": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01934": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01935": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01936": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01937": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01938": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01939": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01940": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01941": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01942": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01943": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01944": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01945": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01946": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-01947": {
+  "group": "overdraft",
+  "business": true,
+  "tag": null
+ },
+ "tx-01948": {
+  "group": "nsf",
+  "business": true,
+  "tag": null
+ },
+ "tx-01949": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01950": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01951": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01952": {
+  "group": null,
+  "business": false,
+  "tag": null
+ },
+ "tx-01953": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01954": {
+  "group": "hr_gambling",
+  "business": false,
+  "tag": null
+ },
+ "tx-01955": {
+  "group": "hr_other",
+  "business": false,
+  "tag": null
+ },
+ "tx-01956": {
+  "group": "revenue_verification",
+  "business": true,
+  "tag": null
+ },
+ "tx-01957": {
+  "group": null,
+  "business": true,
+  "tag": "looks_wrong"
+ },
+ "tx-01958": {
+  "group": null,
+  "business": true,
+  "tag": null
+ },
+ "tx-01959": {
+  "group": null,
+  "business": true,
+  "tag": null
+ }
+}

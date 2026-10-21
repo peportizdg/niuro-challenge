@@ -1,0 +1,7842 @@
+[
+ {
+  "transaction_id": "tx-00013",
+  "business": "Bella Hair Studio",
+  "date": "2026-07-09",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 585556",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.92,
+  "reason": "Squarespace website subscription debit, not a sales settlement; ordinary expense.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00021",
+  "business": "Bella Hair Studio",
+  "date": "2026-07-13",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Planet Fitness gym membership is a personal expense, not a salon cost.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00029",
+  "business": "Bella Hair Studio",
+  "date": "2026-07-16",
+  "amount": "-1450.0",
+  "description": "ACME HOSPITAL DES:PAYROLL ID:317221",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "auto_deposit",
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Fixed $1,450 biweekly hospital payroll deposit: personal paycheck, not salon sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00058",
+  "business": "Bella Hair Studio",
+  "date": "2026-07-31",
+  "amount": "-1450.0",
+  "description": "ACME HOSPITAL DES:PAYROLL ID:960556",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "auto_deposit",
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Fixed $1,450 biweekly hospital payroll deposit: personal paycheck, not salon sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00071",
+  "business": "Bella Hair Studio",
+  "date": "2026-08-07",
+  "amount": "-500.0",
+  "description": "ZELLE FROM ROSA BELLINI ON 08/07 REF # 182237",
+  "engine": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "not_avg_revenue",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.55,
+  "reason": "Round $500 Zelle from Rosa Bellini (likely the owner of Bella): owner capital injection, not sales.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00077",
+  "business": "Bella Hair Studio",
+  "date": "2026-08-10",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 258067",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.92,
+  "reason": "Squarespace website subscription debit, not a sales settlement; ordinary expense.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00079",
+  "business": "Bella Hair Studio",
+  "date": "2026-08-11",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Planet Fitness gym membership is a personal expense, not a salon cost.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00092",
+  "business": "Bella Hair Studio",
+  "date": "2026-08-17",
+  "amount": "-1450.0",
+  "description": "ACME HOSPITAL DES:PAYROLL ID:413814",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "auto_deposit",
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Fixed $1,450 biweekly hospital payroll deposit: personal paycheck, not salon sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00119",
+  "business": "Bella Hair Studio",
+  "date": "2026-08-31",
+  "amount": "-1450.0",
+  "description": "ACME HOSPITAL DES:PAYROLL ID:694223",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "auto_deposit",
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Fixed $1,450 biweekly hospital payroll deposit: personal paycheck, not salon sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00135",
+  "business": "Bella Hair Studio",
+  "date": "2026-09-08",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 606222",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.92,
+  "reason": "Squarespace website subscription debit, not a sales settlement; ordinary expense.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00139",
+  "business": "Bella Hair Studio",
+  "date": "2026-09-09",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Planet Fitness gym membership is a personal expense, not a salon cost.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00150",
+  "business": "Bella Hair Studio",
+  "date": "2026-09-15",
+  "amount": "-1450.0",
+  "description": "ACME HOSPITAL DES:PAYROLL ID:666820",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "auto_deposit",
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Fixed $1,450 biweekly hospital payroll deposit: personal paycheck, not salon sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00164",
+  "business": "Bella Hair Studio",
+  "date": "2026-09-22",
+  "amount": "-500.0",
+  "description": "ZELLE FROM ROSA BELLINI ON 09/22 REF # 462659",
+  "engine": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "not_avg_revenue",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.55,
+  "reason": "Round $500 Zelle from Rosa Bellini (likely the owner of Bella): owner capital injection, not sales.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00181",
+  "business": "Bella Hair Studio",
+  "date": "2026-09-30",
+  "amount": "-1450.0",
+  "description": "ACME HOSPITAL DES:PAYROLL ID:875679",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "auto_deposit",
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Fixed $1,450 biweekly hospital payroll deposit: personal paycheck, not salon sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00184",
+  "business": "Greenleaf Cafe",
+  "date": "2026-07-06",
+  "amount": "-907.52",
+  "description": "DOORDASH DES:PAYMENT ID:670065",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "DoorDash payout is a marketplace sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00191",
+  "business": "Greenleaf Cafe",
+  "date": "2026-07-08",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Planet Fitness gym membership is a personal expense, not a cafe expense.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00197",
+  "business": "Greenleaf Cafe",
+  "date": "2026-07-11",
+  "amount": "-2253.86",
+  "description": "ACH RETURN R01 US FOODS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "nsf",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "ACH return R01 (insufficient funds) of the US Foods debit. This is a returned payment, not sales, so it inflates revenue.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00199",
+  "business": "Greenleaf Cafe",
+  "date": "2026-07-13",
+  "amount": "-905.55",
+  "description": "DOORDASH DES:PAYMENT ID:919898",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "DoorDash payout is a marketplace sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00209",
+  "business": "Greenleaf Cafe",
+  "date": "2026-07-17",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 939333",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "Squarespace website subscription debit. It is an expense, not a processor settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00210",
+  "business": "Greenleaf Cafe",
+  "date": "2026-07-18",
+  "amount": "-1682.32",
+  "description": "ACH RETURN R01 US FOODS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "nsf",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "ACH return R01 (insufficient funds) of the US Foods debit. This is a returned payment, not sales, so it inflates revenue.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00212",
+  "business": "Greenleaf Cafe",
+  "date": "2026-07-20",
+  "amount": "-691.47",
+  "description": "DOORDASH DES:PAYMENT ID:919394",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "DoorDash payout is a marketplace sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00223",
+  "business": "Greenleaf Cafe",
+  "date": "2026-07-26",
+  "amount": "-1432.89",
+  "description": "ACH RETURN R01 US FOODS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "nsf",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "ACH return R01 (insufficient funds) of the US Foods debit. This is a returned payment, not sales, so it inflates revenue.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00227",
+  "business": "Greenleaf Cafe",
+  "date": "2026-07-28",
+  "amount": "-634.49",
+  "description": "DOORDASH DES:PAYMENT ID:693128",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "DoorDash payout is a marketplace sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00233",
+  "business": "Greenleaf Cafe",
+  "date": "2026-07-29",
+  "amount": "-480.0",
+  "description": "ACH RETURN R01 GEICO",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "nsf",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "ACH return R01 (insufficient funds) of the GEICO premium. This is a returned payment, not sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00236",
+  "business": "Greenleaf Cafe",
+  "date": "2026-07-30",
+  "amount": "-260.0",
+  "description": "ACH RETURN R01 VERIZON WIRELESS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "nsf",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "ACH return R01 (insufficient funds) of the Verizon payment. This is a returned payment, not sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00242",
+  "business": "Greenleaf Cafe",
+  "date": "2026-08-04",
+  "amount": "-625.07",
+  "description": "DOORDASH DES:PAYMENT ID:383572",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "DoorDash payout is a marketplace sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00252",
+  "business": "Greenleaf Cafe",
+  "date": "2026-08-07",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Planet Fitness gym membership is a personal expense, not a cafe expense.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00256",
+  "business": "Greenleaf Cafe",
+  "date": "2026-08-11",
+  "amount": "-500.95",
+  "description": "DOORDASH DES:PAYMENT ID:726121",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "DoorDash payout is a marketplace sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00265",
+  "business": "Greenleaf Cafe",
+  "date": "2026-08-18",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 750403",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "Squarespace website subscription debit. It is an expense, not a processor settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00267",
+  "business": "Greenleaf Cafe",
+  "date": "2026-08-19",
+  "amount": "-502.31",
+  "description": "DOORDASH DES:PAYMENT ID:950069",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "DoorDash payout is a marketplace sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00282",
+  "business": "Greenleaf Cafe",
+  "date": "2026-08-26",
+  "amount": "-514.61",
+  "description": "DOORDASH DES:PAYMENT ID:594596",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "DoorDash payout is a marketplace sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00285",
+  "business": "Greenleaf Cafe",
+  "date": "2026-08-27",
+  "amount": "-480.0",
+  "description": "ACH RETURN R01 GEICO",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "nsf",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "ACH return R01 (insufficient funds) of the GEICO premium. This is a returned payment, not sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00289",
+  "business": "Greenleaf Cafe",
+  "date": "2026-08-28",
+  "amount": "-260.0",
+  "description": "ACH RETURN R01 VERIZON WIRELESS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "nsf",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "ACH return R01 (insufficient funds) of the Verizon payment. This is a returned payment, not sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00297",
+  "business": "Greenleaf Cafe",
+  "date": "2026-09-02",
+  "amount": "-640.12",
+  "description": "DOORDASH DES:PAYMENT ID:712356",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "DoorDash payout is a marketplace sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00304",
+  "business": "Greenleaf Cafe",
+  "date": "2026-09-07",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Planet Fitness gym membership is a personal expense, not a cafe expense.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00310",
+  "business": "Greenleaf Cafe",
+  "date": "2026-09-10",
+  "amount": "-899.07",
+  "description": "DOORDASH DES:PAYMENT ID:204998",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "DoorDash payout is a marketplace sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00320",
+  "business": "Greenleaf Cafe",
+  "date": "2026-09-16",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 893969",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "Squarespace website subscription debit. It is an expense, not a processor settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00322",
+  "business": "Greenleaf Cafe",
+  "date": "2026-09-17",
+  "amount": "-765.88",
+  "description": "DOORDASH DES:PAYMENT ID:379473",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "DoorDash payout is a marketplace sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00337",
+  "business": "Greenleaf Cafe",
+  "date": "2026-09-24",
+  "amount": "-832.84",
+  "description": "DOORDASH DES:PAYMENT ID:872863",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "DoorDash payout is a marketplace sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00347",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-03",
+  "amount": "-1395.89",
+  "description": "INTUIT DES:DEPOSIT ID:520106",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00350",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-06",
+  "amount": "-1640.56",
+  "description": "INTUIT DES:DEPOSIT ID:400384",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00351",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-07",
+  "amount": "-1101.72",
+  "description": "INTUIT DES:DEPOSIT ID:911187",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00353",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-08",
+  "amount": "-1626.26",
+  "description": "INTUIT DES:DEPOSIT ID:560295",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00356",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-09",
+  "amount": "400.0",
+  "description": "STATE OF CA FTB DES:WAGE GARN",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_garnishment",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "CA FTB wage garnishment, recurring $400",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00359",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-10",
+  "amount": "-1231.54",
+  "description": "INTUIT DES:DEPOSIT ID:788793",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00362",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-13",
+  "amount": "-1307.41",
+  "description": "INTUIT DES:DEPOSIT ID:135241",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00363",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-13",
+  "amount": "245.29",
+  "description": "CRYPTO.COM DES:PURCHASE 938900",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Crypto exchange purchase (Crypto.com)",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00366",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-14",
+  "amount": "-1509.49",
+  "description": "INTUIT DES:DEPOSIT ID:832377",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00369",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-15",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 438756",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "$23 Squarespace website subscription debit, not a sales settlement",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00370",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-16",
+  "amount": "-1603.67",
+  "description": "INTUIT DES:DEPOSIT ID:806765",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00371",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-17",
+  "amount": "-1373.77",
+  "description": "INTUIT DES:DEPOSIT ID:786837",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00374",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-20",
+  "amount": "-1928.08",
+  "description": "INTUIT DES:DEPOSIT ID:191061",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00376",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-21",
+  "amount": "-1751.71",
+  "description": "INTUIT DES:DEPOSIT ID:470281",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00378",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-22",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Gym membership: personal expense",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00379",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-23",
+  "amount": "-1414.91",
+  "description": "INTUIT DES:DEPOSIT ID:310040",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00380",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-23",
+  "amount": "295.14",
+  "description": "CRYPTO.COM DES:PURCHASE 110215",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Crypto exchange purchase (Crypto.com)",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00382",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-24",
+  "amount": "-1063.83",
+  "description": "INTUIT DES:DEPOSIT ID:837801",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00383",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-24",
+  "amount": "400.0",
+  "description": "STATE OF CA FTB DES:WAGE GARN",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_garnishment",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "CA FTB wage garnishment, recurring $400",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00386",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-27",
+  "amount": "-1877.26",
+  "description": "INTUIT DES:DEPOSIT ID:676289",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00390",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-28",
+  "amount": "-1703.52",
+  "description": "INTUIT DES:DEPOSIT ID:686273",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00394",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-30",
+  "amount": "-1363.29",
+  "description": "INTUIT DES:DEPOSIT ID:955129",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00397",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-07-31",
+  "amount": "-1253.67",
+  "description": "INTUIT DES:DEPOSIT ID:303974",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00399",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-03",
+  "amount": "-1886.74",
+  "description": "INTUIT DES:DEPOSIT ID:702833",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00400",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-04",
+  "amount": "285.87",
+  "description": "CRYPTO.COM DES:PURCHASE 241003",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Crypto exchange purchase (Crypto.com)",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00402",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-05",
+  "amount": "-1285.0",
+  "description": "INTUIT DES:DEPOSIT ID:526911",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00404",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-06",
+  "amount": "-1145.82",
+  "description": "INTUIT DES:DEPOSIT ID:175902",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00408",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-07",
+  "amount": "-1314.83",
+  "description": "INTUIT DES:DEPOSIT ID:222692",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00409",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-07",
+  "amount": "400.0",
+  "description": "STATE OF CA FTB DES:WAGE GARN",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_garnishment",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "CA FTB wage garnishment, recurring $400",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00410",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-10",
+  "amount": "-1911.04",
+  "description": "INTUIT DES:DEPOSIT ID:664032",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00416",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-12",
+  "amount": "-1275.13",
+  "description": "INTUIT DES:DEPOSIT ID:564276",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00417",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-13",
+  "amount": "-1556.85",
+  "description": "INTUIT DES:DEPOSIT ID:907369",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00418",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-13",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 144235",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "$23 Squarespace website subscription debit, not a sales settlement",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00419",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-14",
+  "amount": "-1731.73",
+  "description": "INTUIT DES:DEPOSIT ID:913274",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00420",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-14",
+  "amount": "306.12",
+  "description": "CRYPTO.COM DES:PURCHASE 431064",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Crypto exchange purchase (Crypto.com)",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00423",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-18",
+  "amount": "-1663.44",
+  "description": "INTUIT DES:DEPOSIT ID:715332",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00427",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-19",
+  "amount": "-1483.77",
+  "description": "INTUIT DES:DEPOSIT ID:370343",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00429",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-20",
+  "amount": "-1394.41",
+  "description": "INTUIT DES:DEPOSIT ID:926965",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00430",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-20",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Gym membership: personal expense",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00431",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-21",
+  "amount": "-1659.22",
+  "description": "INTUIT DES:DEPOSIT ID:341099",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00433",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-24",
+  "amount": "400.0",
+  "description": "STATE OF CA FTB DES:WAGE GARN",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_garnishment",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "CA FTB wage garnishment, recurring $400",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00437",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-25",
+  "amount": "-1421.18",
+  "description": "INTUIT DES:DEPOSIT ID:470248",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00439",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-26",
+  "amount": "-1532.09",
+  "description": "INTUIT DES:DEPOSIT ID:834861",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00440",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-26",
+  "amount": "264.01",
+  "description": "CRYPTO.COM DES:PURCHASE 689444",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Crypto exchange purchase (Crypto.com)",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00444",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-27",
+  "amount": "-1273.43",
+  "description": "INTUIT DES:DEPOSIT ID:197527",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00448",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-08-31",
+  "amount": "-1656.33",
+  "description": "INTUIT DES:DEPOSIT ID:960959",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00449",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-01",
+  "amount": "-1118.43",
+  "description": "INTUIT DES:DEPOSIT ID:287155",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00450",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-02",
+  "amount": "-1332.49",
+  "description": "INTUIT DES:DEPOSIT ID:329183",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00452",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-03",
+  "amount": "-1292.17",
+  "description": "INTUIT DES:DEPOSIT ID:882401",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00455",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-07",
+  "amount": "-1499.1",
+  "description": "INTUIT DES:DEPOSIT ID:309365",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00456",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-07",
+  "amount": "218.59",
+  "description": "CRYPTO.COM DES:PURCHASE 203782",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Crypto exchange purchase (Crypto.com)",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00458",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-08",
+  "amount": "-1711.89",
+  "description": "INTUIT DES:DEPOSIT ID:378297",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00459",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-08",
+  "amount": "400.0",
+  "description": "STATE OF CA FTB DES:WAGE GARN",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_garnishment",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "CA FTB wage garnishment, recurring $400",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00462",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-09",
+  "amount": "-1256.29",
+  "description": "INTUIT DES:DEPOSIT ID:975498",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00466",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-10",
+  "amount": "-1802.7",
+  "description": "INTUIT DES:DEPOSIT ID:473321",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00469",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-11",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 365617",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "$23 Squarespace website subscription debit, not a sales settlement",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00470",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-14",
+  "amount": "-1751.04",
+  "description": "INTUIT DES:DEPOSIT ID:225701",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00472",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-15",
+  "amount": "-1658.23",
+  "description": "INTUIT DES:DEPOSIT ID:795650",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00475",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-16",
+  "amount": "-1602.44",
+  "description": "INTUIT DES:DEPOSIT ID:901368",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00477",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-17",
+  "amount": "220.81",
+  "description": "CRYPTO.COM DES:PURCHASE 953350",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Crypto exchange purchase (Crypto.com)",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00479",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-18",
+  "amount": "-1912.19",
+  "description": "INTUIT DES:DEPOSIT ID:989203",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00481",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-21",
+  "amount": "-1384.08",
+  "description": "INTUIT DES:DEPOSIT ID:430738",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00484",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-21",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Gym membership: personal expense",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00485",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-22",
+  "amount": "-1858.31",
+  "description": "INTUIT DES:DEPOSIT ID:702427",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00486",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-22",
+  "amount": "400.0",
+  "description": "STATE OF CA FTB DES:WAGE GARN",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_garnishment",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "CA FTB wage garnishment, recurring $400",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00488",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-23",
+  "amount": "-1491.72",
+  "description": "INTUIT DES:DEPOSIT ID:901387",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00493",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-25",
+  "amount": "-1302.24",
+  "description": "INTUIT DES:DEPOSIT ID:332881",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00495",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-28",
+  "amount": "-1165.42",
+  "description": "INTUIT DES:DEPOSIT ID:651273",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00497",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-29",
+  "amount": "-1480.49",
+  "description": "INTUIT DES:DEPOSIT ID:667036",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Intuit (QuickBooks Payments) merchant settlement",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00498",
+  "business": "Harbor Cleaning Co",
+  "date": "2026-09-29",
+  "amount": "295.78",
+  "description": "CRYPTO.COM DES:PURCHASE 760458",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Crypto exchange purchase (Crypto.com)",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00501",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-07-03",
+  "amount": "-500.89",
+  "description": "ACH CREDIT 454508 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00506",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-07-03",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 614013",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Squarespace website subscription debit. This is an expense, not a processor settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00517",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-07-09",
+  "amount": "-631.79",
+  "description": "ACH CREDIT 341292 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00532",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-07-15",
+  "amount": "-24000.0",
+  "description": "SQUARE CAPITAL DES:LOAN ID:585100",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "$24,000 Square Capital loan funding, not a sales settlement. Same funder as the daily $215 SQ CAPITAL payments, so it is an advance deposit and should not count as revenue.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00535",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-07-16",
+  "amount": "-499.28",
+  "description": "ACH CREDIT 174441 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00552",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-07-22",
+  "amount": "-502.42",
+  "description": "ACH CREDIT 132938 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00561",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-07-24",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.75,
+  "reason": "Planet Fitness gym membership is a personal expense, not a restaurant business cost.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00567",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-07-28",
+  "amount": "-445.51",
+  "description": "ACH CREDIT 349565 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00582",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-08-03",
+  "amount": "-660.83",
+  "description": "ACH CREDIT 324643 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00587",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-08-03",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 479781",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Squarespace website subscription debit. This is an expense, not a processor settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00601",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-08-10",
+  "amount": "-467.63",
+  "description": "ACH CREDIT 698782 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00614",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-08-14",
+  "amount": "-590.16",
+  "description": "ACH CREDIT 922733 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00630",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-08-20",
+  "amount": "-710.7",
+  "description": "ACH CREDIT 299659 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00640",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-08-24",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.75,
+  "reason": "Planet Fitness gym membership is a personal expense, not a restaurant business cost.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00645",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-08-26",
+  "amount": "-454.9",
+  "description": "ACH CREDIT 551989 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00662",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-09-01",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 556641",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Squarespace website subscription debit. This is an expense, not a processor settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00664",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-09-02",
+  "amount": "-572.49",
+  "description": "ACH CREDIT 589710 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00679",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-09-08",
+  "amount": "-662.41",
+  "description": "ACH CREDIT 777568 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00693",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-09-14",
+  "amount": "-441.82",
+  "description": "ACH CREDIT 863587 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00709",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-09-18",
+  "amount": "-708.21",
+  "description": "ACH CREDIT 214576 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00721",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-09-23",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.75,
+  "reason": "Planet Fitness gym membership is a personal expense, not a restaurant business cost.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00726",
+  "business": "Joe's Tacos LLC",
+  "date": "2026-09-25",
+  "amount": "-488.97",
+  "description": "ACH CREDIT 662336 SQ *JOES TACOS",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.6,
+  "reason": "Square card settlement (SQ *JOES TACOS) should be revenue_verification. It counts as revenue either way.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00740",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-03",
+  "amount": "-1893.86",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:618317",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00746",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-06",
+  "amount": "-1009.61",
+  "description": "STRIPE TRANSFER ST-576086",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00748",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-07",
+  "amount": "-1699.12",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:322423",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00752",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-07",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Gym membership is a personal expense, like the Netflix charges",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00753",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-08",
+  "amount": "-2475.27",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:456871",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00756",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-09",
+  "amount": "-1001.19",
+  "description": "STRIPE TRANSFER ST-377405",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00760",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-10",
+  "amount": "-2579.2",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:835244",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00764",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-13",
+  "amount": "-2170.3",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:641722",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00765",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-13",
+  "amount": "-987.04",
+  "description": "STRIPE TRANSFER ST-307428",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00772",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-15",
+  "amount": "-1577.87",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:855053",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00775",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-16",
+  "amount": "-2085.61",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:894993",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00776",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-16",
+  "amount": "-691.98",
+  "description": "STRIPE TRANSFER ST-335729",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00782",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-17",
+  "amount": "-2340.17",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:777278",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00787",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-21",
+  "amount": "-2034.7",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:118080",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00788",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-21",
+  "amount": "-1120.54",
+  "description": "STRIPE TRANSFER ST-966785",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00790",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-22",
+  "amount": "-1840.74",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:524045",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00797",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-23",
+  "amount": "-668.56",
+  "description": "STRIPE TRANSFER ST-273982",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00800",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-24",
+  "amount": "-1855.82",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:709805",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00802",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-27",
+  "amount": "-2066.31",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:656711",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00806",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-28",
+  "amount": "-951.32",
+  "description": "STRIPE TRANSFER ST-964278",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00810",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-29",
+  "amount": "-2006.13",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:882169",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00813",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-30",
+  "amount": "-1886.8",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:836996",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00814",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-30",
+  "amount": "-1127.44",
+  "description": "STRIPE TRANSFER ST-560485",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00816",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-31",
+  "amount": "-1811.35",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:363615",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00817",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-31",
+  "amount": "-18000.0",
+  "description": "ORIG CO NAME:SHOPIFY CAPITAL ENTRY DESCR:LOAN IND ID:523808",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "not_avg_revenue",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.75,
+  "reason": "Shopify Capital LOAN proceeds, $18k one-off - financing, not sales (could arguably be active_advance)",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00820",
+  "business": "Lumen Goods Co",
+  "date": "2026-07-31",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 901280",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "$23 Squarespace debit is a subscription expense, not a sales settlement",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00825",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-04",
+  "amount": "-1622.03",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:301939",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00826",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-04",
+  "amount": "-883.1",
+  "description": "STRIPE TRANSFER ST-418862",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00829",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-05",
+  "amount": "-1620.64",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:661894",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00833",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-06",
+  "amount": "-1139.05",
+  "description": "STRIPE TRANSFER ST-624783",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00837",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-06",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Gym membership is a personal expense, like the Netflix charges",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00838",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-07",
+  "amount": "-1711.34",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:874483",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00842",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-10",
+  "amount": "-1818.39",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:718226",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00847",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-11",
+  "amount": "-2221.96",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:205409",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00848",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-11",
+  "amount": "-896.65",
+  "description": "STRIPE TRANSFER ST-184349",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00853",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-13",
+  "amount": "-1843.27",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:478411",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00854",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-13",
+  "amount": "-651.52",
+  "description": "STRIPE TRANSFER ST-553014",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00859",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-14",
+  "amount": "-1850.86",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:842411",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00866",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-18",
+  "amount": "-1629.49",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:147726",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00867",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-18",
+  "amount": "-956.01",
+  "description": "STRIPE TRANSFER ST-127121",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00870",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-19",
+  "amount": "-2167.23",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:831295",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00877",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-21",
+  "amount": "-2273.72",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:889359",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00878",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-21",
+  "amount": "-753.62",
+  "description": "STRIPE TRANSFER ST-807053",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00881",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-24",
+  "amount": "-1599.26",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:112861",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00884",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-25",
+  "amount": "-1828.27",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:601968",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00885",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-25",
+  "amount": "-947.05",
+  "description": "STRIPE TRANSFER ST-121753",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00891",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-27",
+  "amount": "-1899.29",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:153872",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00895",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-28",
+  "amount": "-2655.74",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:600935",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00896",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-28",
+  "amount": "-941.17",
+  "description": "STRIPE TRANSFER ST-900177",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00902",
+  "business": "Lumen Goods Co",
+  "date": "2026-08-31",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 225812",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "$23 Squarespace debit is a subscription expense, not a sales settlement",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00903",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-01",
+  "amount": "-2505.87",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:520172",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00904",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-01",
+  "amount": "-884.07",
+  "description": "STRIPE TRANSFER ST-783157",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00906",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-02",
+  "amount": "-1563.34",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:760021",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00913",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-04",
+  "amount": "-1661.18",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:950544",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00914",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-04",
+  "amount": "-1124.68",
+  "description": "STRIPE TRANSFER ST-290305",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00918",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-04",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Gym membership is a personal expense, like the Netflix charges",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00919",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-07",
+  "amount": "-2665.9",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:189318",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00922",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-08",
+  "amount": "-1619.25",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:901577",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00923",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-08",
+  "amount": "-865.38",
+  "description": "STRIPE TRANSFER ST-953797",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00931",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-10",
+  "amount": "-2233.96",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:929151",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00932",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-11",
+  "amount": "-1754.37",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:647957",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00933",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-11",
+  "amount": "-1153.29",
+  "description": "STRIPE TRANSFER ST-592841",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00942",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-15",
+  "amount": "-2037.65",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:564226",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00946",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-16",
+  "amount": "-2553.81",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:549660",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00947",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-16",
+  "amount": "-850.51",
+  "description": "STRIPE TRANSFER ST-436653",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00951",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-17",
+  "amount": "-2186.47",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:163156",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00954",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-18",
+  "amount": "-1093.18",
+  "description": "STRIPE TRANSFER ST-445824",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00958",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-21",
+  "amount": "-2679.74",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:204053",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00963",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-22",
+  "amount": "-2258.15",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:377501",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00968",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-23",
+  "amount": "-1004.58",
+  "description": "STRIPE TRANSFER ST-402218",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00971",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-24",
+  "amount": "-1667.89",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:282256",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00972",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-25",
+  "amount": "-1564.58",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:102805",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00973",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-25",
+  "amount": "-1069.33",
+  "description": "STRIPE TRANSFER ST-676818",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00982",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-29",
+  "amount": "-2037.63",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:722656",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00983",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-29",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 551574",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "$23 Squarespace debit is a subscription expense, not a sales settlement",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-00984",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-30",
+  "amount": "-1836.99",
+  "description": "ORIG CO NAME:SHOPIFY CO ENTRY DESCR:TRANSFER SEC:CCD IND ID:342720",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Shopify payout = sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-00985",
+  "business": "Lumen Goods Co",
+  "date": "2026-09-30",
+  "amount": "-875.61",
+  "description": "STRIPE TRANSFER ST-429795",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.9,
+  "reason": "Stripe payout = card sales settlement, not own-account transfer",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01011",
+  "business": "Maple Dental Group",
+  "date": "2026-07-16",
+  "amount": "-20000.0",
+  "description": "MAPLE DENTAL GROUP DES:CAPITAL CONTRIB",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "not_avg_revenue",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Owner capital contribution from the business's own name, not an MCA funder. One-off and not sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01020",
+  "business": "Maple Dental Group",
+  "date": "2026-07-22",
+  "amount": "5435.2",
+  "description": "AMERICAN EXPRESS DES:ACH PMT",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "Debit paying the AmEx card bill. This is not a processor sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01035",
+  "business": "Maple Dental Group",
+  "date": "2026-07-30",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 907455",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "$23 Squarespace website subscription, an ordinary expense. Not sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01037",
+  "business": "Maple Dental Group",
+  "date": "2026-07-31",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.5,
+  "reason": "Gym membership is likely the owner's personal expense, like the Netflix charges already marked personal.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01070",
+  "business": "Maple Dental Group",
+  "date": "2026-08-20",
+  "amount": "3307.46",
+  "description": "AMERICAN EXPRESS DES:ACH PMT",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "Debit paying the AmEx card bill. This is not a processor sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01083",
+  "business": "Maple Dental Group",
+  "date": "2026-08-28",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 692282",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "$23 Squarespace website subscription, an ordinary expense. Not sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01086",
+  "business": "Maple Dental Group",
+  "date": "2026-08-31",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.5,
+  "reason": "Gym membership is likely the owner's personal expense, like the Netflix charges already marked personal.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01118",
+  "business": "Maple Dental Group",
+  "date": "2026-09-18",
+  "amount": "3443.21",
+  "description": "AMERICAN EXPRESS DES:ACH PMT",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "Debit paying the AmEx card bill. This is not a processor sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01132",
+  "business": "Maple Dental Group",
+  "date": "2026-09-29",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 684413",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "$23 Squarespace website subscription, an ordinary expense. Not sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01133",
+  "business": "Maple Dental Group",
+  "date": "2026-09-29",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.5,
+  "reason": "Gym membership is likely the owner's personal expense, like the Netflix charges already marked personal.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01139",
+  "business": "Ortega Builders LLC",
+  "date": "2026-07-06",
+  "amount": "-150000.0",
+  "description": "SBAD TREAS 310 DES:MISC PAY",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "not_avg_revenue",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "SBAD TREAS 310 is SBA disaster loan proceeds, which are loan money rather than sales.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01153",
+  "business": "Ortega Builders LLC",
+  "date": "2026-07-14",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Planet Fitness gym membership is a personal expense.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01163",
+  "business": "Ortega Builders LLC",
+  "date": "2026-07-20",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 704663",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "$23 Squarespace debit is a website subscription expense, not a processor sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01167",
+  "business": "Ortega Builders LLC",
+  "date": "2026-07-23",
+  "amount": "1800.0",
+  "description": "CAT FINANCIAL DES:PAYMENT",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "ucc",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "CAT Financial: fixed monthly $1,800 equipment finance payment to a secured lender.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01182",
+  "business": "Ortega Builders LLC",
+  "date": "2026-07-31",
+  "amount": "-18058.73",
+  "description": "WIRE TRANSFER IN FED 619013 ORIG GREYSTONE PROPERTIES",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "Incoming wire from Greystone Properties, a third party and likely a builder's client. Nothing shows it is the business's own account.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01203",
+  "business": "Ortega Builders LLC",
+  "date": "2026-08-13",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Planet Fitness gym membership is a personal expense.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01211",
+  "business": "Ortega Builders LLC",
+  "date": "2026-08-18",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 635593",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "$23 Squarespace debit is a website subscription expense, not a processor sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01215",
+  "business": "Ortega Builders LLC",
+  "date": "2026-08-21",
+  "amount": "1800.0",
+  "description": "CAT FINANCIAL DES:PAYMENT",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "ucc",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "CAT Financial: fixed monthly $1,800 equipment finance payment to a secured lender.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01229",
+  "business": "Ortega Builders LLC",
+  "date": "2026-08-31",
+  "amount": "-19994.72",
+  "description": "WIRE TRANSFER IN FED 535820 ORIG GREYSTONE PROPERTIES",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "Incoming wire from Greystone Properties, a third party and likely a builder's client. Nothing shows it is the business's own account.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01249",
+  "business": "Ortega Builders LLC",
+  "date": "2026-09-11",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Planet Fitness gym membership is a personal expense.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01256",
+  "business": "Ortega Builders LLC",
+  "date": "2026-09-16",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 694423",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "$23 Squarespace debit is a website subscription expense, not a processor sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01262",
+  "business": "Ortega Builders LLC",
+  "date": "2026-09-22",
+  "amount": "1800.0",
+  "description": "CAT FINANCIAL DES:PAYMENT",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "ucc",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "CAT Financial: fixed monthly $1,800 equipment finance payment to a secured lender.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01275",
+  "business": "Ortega Builders LLC",
+  "date": "2026-09-30",
+  "amount": "-17877.95",
+  "description": "WIRE TRANSFER IN FED 186686 ORIG GREYSTONE PROPERTIES",
+  "engine": {
+   "group": "internal_transfer",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "confidence": 0.7,
+  "reason": "Incoming wire from Greystone Properties, a third party and likely a builder's client. Nothing shows it is the business's own account.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01279",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-03",
+  "amount": "405.71",
+  "description": "ADVANCE AUTO PARTS #132316",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts is a parts store (store #), not an MCA funder; varying amounts = parts purchases.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01283",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-07",
+  "amount": "269.89",
+  "description": "ADVANCE AUTO PARTS #330545",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01287",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-07",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Planet Fitness gym membership looks like a personal expense, not a shop expense.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01290",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-08",
+  "amount": "390.34",
+  "description": "ADVANCE AUTO PARTS #935474",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01293",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-10",
+  "amount": "298.18",
+  "description": "ADVANCE AUTO PARTS #764845",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01297",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-10",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 461083",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Squarespace $23 debit is a website subscription expense, not a sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01299",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-13",
+  "amount": "1250.0",
+  "description": "CH 13 TRUSTEE DES:PAYMENT",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_bankruptcy",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Chapter 13 trustee payment = active bankruptcy plan, $1,250 monthly.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01302",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-14",
+  "amount": "298.8",
+  "description": "ADVANCE AUTO PARTS #933635",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01304",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-15",
+  "amount": "433.31",
+  "description": "ADVANCE AUTO PARTS #111691",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01309",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-17",
+  "amount": "416.45",
+  "description": "ADVANCE AUTO PARTS #248241",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01311",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-20",
+  "amount": "246.52",
+  "description": "ADVANCE AUTO PARTS #700538",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01317",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-22",
+  "amount": "318.39",
+  "description": "ADVANCE AUTO PARTS #674122",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01323",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-24",
+  "amount": "300.16",
+  "description": "ADVANCE AUTO PARTS #884645",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01327",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-27",
+  "amount": "281.19",
+  "description": "ADVANCE AUTO PARTS #777308",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01333",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-29",
+  "amount": "267.06",
+  "description": "ADVANCE AUTO PARTS #292930",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01337",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-07-30",
+  "amount": "363.84",
+  "description": "ADVANCE AUTO PARTS #365018",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01341",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-03",
+  "amount": "261.38",
+  "description": "ADVANCE AUTO PARTS #803571",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01349",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-05",
+  "amount": "411.86",
+  "description": "ADVANCE AUTO PARTS #992744",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01351",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-05",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Planet Fitness gym membership looks like a personal expense, not a shop expense.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01353",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-06",
+  "amount": "332.1",
+  "description": "ADVANCE AUTO PARTS #676365",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01357",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-10",
+  "amount": "297.29",
+  "description": "ADVANCE AUTO PARTS #170634",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01359",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-10",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 996531",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Squarespace $23 debit is a website subscription expense, not a sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01361",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-11",
+  "amount": "258.03",
+  "description": "ADVANCE AUTO PARTS #860835",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01364",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-12",
+  "amount": "1250.0",
+  "description": "CH 13 TRUSTEE DES:PAYMENT",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_bankruptcy",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Chapter 13 trustee payment = active bankruptcy plan, $1,250 monthly.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01368",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-13",
+  "amount": "337.39",
+  "description": "ADVANCE AUTO PARTS #446922",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01374",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-17",
+  "amount": "264.16",
+  "description": "ADVANCE AUTO PARTS #787313",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01376",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-18",
+  "amount": "258.41",
+  "description": "ADVANCE AUTO PARTS #749609",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01381",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-20",
+  "amount": "421.62",
+  "description": "ADVANCE AUTO PARTS #433222",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01386",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-21",
+  "amount": "329.93",
+  "description": "ADVANCE AUTO PARTS #746281",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01390",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-25",
+  "amount": "379.47",
+  "description": "ADVANCE AUTO PARTS #259797",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01398",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-27",
+  "amount": "353.64",
+  "description": "ADVANCE AUTO PARTS #946934",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01400",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-08-28",
+  "amount": "433.57",
+  "description": "ADVANCE AUTO PARTS #276831",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01406",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-01",
+  "amount": "301.9",
+  "description": "ADVANCE AUTO PARTS #923824",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01409",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-02",
+  "amount": "383.29",
+  "description": "ADVANCE AUTO PARTS #771967",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01413",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-03",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Planet Fitness gym membership looks like a personal expense, not a shop expense.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01415",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-04",
+  "amount": "294.44",
+  "description": "ADVANCE AUTO PARTS #476948",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01422",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-08",
+  "amount": "376.63",
+  "description": "ADVANCE AUTO PARTS #447668",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01425",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-09",
+  "amount": "332.42",
+  "description": "ADVANCE AUTO PARTS #476167",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01427",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-09",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 568288",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Squarespace $23 debit is a website subscription expense, not a sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01429",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-10",
+  "amount": "1250.0",
+  "description": "CH 13 TRUSTEE DES:PAYMENT",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_bankruptcy",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Chapter 13 trustee payment = active bankruptcy plan, $1,250 monthly.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01432",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-11",
+  "amount": "337.34",
+  "description": "ADVANCE AUTO PARTS #214119",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01436",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-14",
+  "amount": "369.69",
+  "description": "ADVANCE AUTO PARTS #185955",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01439",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-16",
+  "amount": "413.18",
+  "description": "ADVANCE AUTO PARTS #246802",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01447",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-18",
+  "amount": "278.07",
+  "description": "ADVANCE AUTO PARTS #869177",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01449",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-21",
+  "amount": "386.39",
+  "description": "ADVANCE AUTO PARTS #119535",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01453",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-23",
+  "amount": "366.85",
+  "description": "ADVANCE AUTO PARTS #952117",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01457",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-24",
+  "amount": "356.1",
+  "description": "ADVANCE AUTO PARTS #906564",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01464",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-28",
+  "amount": "281.4",
+  "description": "ADVANCE AUTO PARTS #138436",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01471",
+  "business": "Pioneer Auto Repair",
+  "date": "2026-09-30",
+  "amount": "291.17",
+  "description": "ADVANCE AUTO PARTS #665892",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.95,
+  "reason": "Advance Auto Parts parts purchase, not a cash advance.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01475",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-03",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:970720",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus is an MCA funder; fixed $275 daily debit = advance payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01480",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-06",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:601776",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01483",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-07",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:166165",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01487",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-08",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:311383",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01491",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-09",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:143941",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01498",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-10",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:640418",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01503",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-13",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:669408",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01504",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-13",
+  "amount": "1133.56",
+  "description": "CAPITAL ONE DES:CRCARDPMT ID:231250",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.88,
+  "reason": "Capital One credit card payment, not an MCA; varying amounts",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01506",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-14",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:889882",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01510",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-15",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:918771",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01514",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-15",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 593699",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Squarespace subscription debit, not a sales settlement",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01517",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-16",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:448048",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01519",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-17",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:485896",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01520",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-17",
+  "amount": "2900.0",
+  "description": "DAIMLER TRUCK FIN DES:LOAN PMT",
+  "engine": {
+   "group": "not_avg_revenue",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "ucc",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "Daimler Truck Financial monthly loan pmt = lien-secured vehicle finance",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01525",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-20",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:879414",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01528",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-21",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:505426",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01532",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-22",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:620306",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01539",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-23",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:936020",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01542",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-24",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:186624",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01547",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-27",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:731718",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01551",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-28",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:436814",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01552",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-28",
+  "amount": "1175.52",
+  "description": "CAPITAL ONE DES:CRCARDPMT ID:197966",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.88,
+  "reason": "Capital One credit card payment, not an MCA",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01557",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-29",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:793024",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01560",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-29",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Gym membership is a personal expense",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01562",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-30",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:731894",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01566",
+  "business": "Redline Freight Inc",
+  "date": "2026-07-31",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:565471",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01572",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-03",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:862120",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01577",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-04",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:556068",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01581",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-05",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:929924",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01584",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-06",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:768480",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01588",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-07",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:940010",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01594",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-10",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:249715",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01598",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-11",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:559457",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01601",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-12",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:347459",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01602",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-12",
+  "amount": "1193.05",
+  "description": "CAPITAL ONE DES:CRCARDPMT ID:720556",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.88,
+  "reason": "Capital One credit card payment, not an MCA",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01608",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-13",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:694799",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01611",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-14",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:812048",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01614",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-14",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 965708",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Squarespace subscription debit, not a sales settlement",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01616",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-17",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:490084",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01617",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-17",
+  "amount": "2900.0",
+  "description": "DAIMLER TRUCK FIN DES:LOAN PMT",
+  "engine": {
+   "group": "not_avg_revenue",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "ucc",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "Daimler Truck Financial monthly loan pmt = lien-secured vehicle finance",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01622",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-18",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:701800",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01625",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-19",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:517368",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01629",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-20",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:361736",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01635",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-21",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:295085",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01638",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-24",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:688956",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01643",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-25",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:372933",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01648",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-26",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:741599",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01649",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-26",
+  "amount": "871.77",
+  "description": "CAPITAL ONE DES:CRCARDPMT ID:790731",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.88,
+  "reason": "Capital One credit card payment, not an MCA",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01655",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-27",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:615060",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01656",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-27",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Gym membership is a personal expense",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01658",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-28",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:994253",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01663",
+  "business": "Redline Freight Inc",
+  "date": "2026-08-31",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:848022",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01668",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-01",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:949884",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01673",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-02",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:844007",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01677",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-03",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:404466",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01681",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-04",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:846385",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01685",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-07",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:633469",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01689",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-08",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:310743",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01695",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-09",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:618019",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01699",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-10",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:700076",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01700",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-10",
+  "amount": "1245.62",
+  "description": "CAPITAL ONE DES:CRCARDPMT ID:734534",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.88,
+  "reason": "Capital One credit card payment, not an MCA",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01703",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-11",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:678443",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01707",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-14",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:190403",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01711",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-14",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 813390",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Squarespace subscription debit, not a sales settlement",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01714",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-15",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:851759",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01718",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-16",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:906527",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01719",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-16",
+  "amount": "2900.0",
+  "description": "DAIMLER TRUCK FIN DES:LOAN PMT",
+  "engine": {
+   "group": "not_avg_revenue",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "ucc",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.85,
+  "reason": "Daimler Truck Financial monthly loan pmt = lien-secured vehicle finance",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01721",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-17",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:177333",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01727",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-18",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:773540",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01732",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-21",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:813145",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01735",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-22",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:969325",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01740",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-23",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:290802",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01743",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-24",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:158104",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01748",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-25",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:418897",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01749",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-25",
+  "amount": "1326.07",
+  "description": "CAPITAL ONE DES:CRCARDPMT ID:690996",
+  "engine": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.88,
+  "reason": "Capital One credit card payment, not an MCA",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01755",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-28",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:843788",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01758",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-28",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "Gym membership is a personal expense",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01761",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-29",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:644103",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01764",
+  "business": "Redline Freight Inc",
+  "date": "2026-09-30",
+  "amount": "275.0",
+  "description": "KAPITUS SERVICING DES:DEBIT ID:362778",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "active_advance",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.93,
+  "reason": "Kapitus MCA fixed daily $275 payment",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01774",
+  "business": "Sunny Side Bakery",
+  "date": "2026-07-07",
+  "amount": "-100.0",
+  "description": "EARNIN DES:CASHOUT ID:629146",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "EarnIn cashout is an earned-wage advance, not a sale. Labeled none, it counts as revenue.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01781",
+  "business": "Sunny Side Bakery",
+  "date": "2026-07-10",
+  "amount": "105.11",
+  "description": "PAYPAL *BETMGM 235691",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_gambling",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "BetMGM is an online sportsbook paid through PayPal, so this is gambling.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01787",
+  "business": "Sunny Side Bakery",
+  "date": "2026-07-14",
+  "amount": "-35.0",
+  "description": "NSF FEE REFUND",
+  "engine": {
+   "group": "nsf",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "not_avg_revenue",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.75,
+  "reason": "This is a bank refunding a fee, not an NSF event. Labeled nsf, it inflates the NSF count.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01791",
+  "business": "Sunny Side Bakery",
+  "date": "2026-07-15",
+  "amount": "100.0",
+  "description": "EARNIN DES:ACTIVEHOURS ID:404955",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "EarnIn ActiveHours debit repays an earned-wage advance.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01800",
+  "business": "Sunny Side Bakery",
+  "date": "2026-07-20",
+  "amount": "86.42",
+  "description": "PAYPAL *BETMGM 550268",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_gambling",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "BetMGM is an online sportsbook paid through PayPal, so this is gambling.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01802",
+  "business": "Sunny Side Bakery",
+  "date": "2026-07-21",
+  "amount": "-100.0",
+  "description": "EARNIN DES:CASHOUT ID:845652",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "EarnIn cashout is an earned-wage advance, not a sale. Labeled none, it counts as revenue.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01809",
+  "business": "Sunny Side Bakery",
+  "date": "2026-07-23",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "A gym membership is likely a personal expense, not a bakery cost.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01816",
+  "business": "Sunny Side Bakery",
+  "date": "2026-07-28",
+  "amount": "86.17",
+  "description": "PAYPAL *BETMGM 600590",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_gambling",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "BetMGM is an online sportsbook paid through PayPal, so this is gambling.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01817",
+  "business": "Sunny Side Bakery",
+  "date": "2026-07-28",
+  "amount": "35.0",
+  "description": "OD ITEM CHARGE 853681",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "overdraft",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "OD item charge is an overdraft fee.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01824",
+  "business": "Sunny Side Bakery",
+  "date": "2026-07-30",
+  "amount": "100.0",
+  "description": "EARNIN DES:ACTIVEHOURS ID:725339",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "EarnIn ActiveHours debit repays an earned-wage advance.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01829",
+  "business": "Sunny Side Bakery",
+  "date": "2026-07-31",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 871976",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Squarespace is a website subscription the business pays for (a debit), not a sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01836",
+  "business": "Sunny Side Bakery",
+  "date": "2026-08-05",
+  "amount": "-100.0",
+  "description": "EARNIN DES:CASHOUT ID:771425",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "EarnIn cashout is an earned-wage advance, not a sale. Labeled none, it counts as revenue.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01840",
+  "business": "Sunny Side Bakery",
+  "date": "2026-08-06",
+  "amount": "63.25",
+  "description": "PAYPAL *BETMGM 659711",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_gambling",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "BetMGM is an online sportsbook paid through PayPal, so this is gambling.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01856",
+  "business": "Sunny Side Bakery",
+  "date": "2026-08-14",
+  "amount": "102.46",
+  "description": "PAYPAL *BETMGM 114760",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_gambling",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "BetMGM is an online sportsbook paid through PayPal, so this is gambling.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01857",
+  "business": "Sunny Side Bakery",
+  "date": "2026-08-14",
+  "amount": "100.0",
+  "description": "EARNIN DES:ACTIVEHOURS ID:820141",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "EarnIn ActiveHours debit repays an earned-wage advance.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01868",
+  "business": "Sunny Side Bakery",
+  "date": "2026-08-20",
+  "amount": "-100.0",
+  "description": "EARNIN DES:CASHOUT ID:753404",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "EarnIn cashout is an earned-wage advance, not a sale. Labeled none, it counts as revenue.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01875",
+  "business": "Sunny Side Bakery",
+  "date": "2026-08-24",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "A gym membership is likely a personal expense, not a bakery cost.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01877",
+  "business": "Sunny Side Bakery",
+  "date": "2026-08-25",
+  "amount": "103.87",
+  "description": "PAYPAL *BETMGM 656829",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_gambling",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "BetMGM is an online sportsbook paid through PayPal, so this is gambling.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01882",
+  "business": "Sunny Side Bakery",
+  "date": "2026-08-27",
+  "amount": "35.0",
+  "description": "OD ITEM CHARGE 219550",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "overdraft",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "OD item charge is an overdraft fee.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01883",
+  "business": "Sunny Side Bakery",
+  "date": "2026-08-27",
+  "amount": "-35.0",
+  "description": "NSF FEE REFUND",
+  "engine": {
+   "group": "nsf",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "not_avg_revenue",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.75,
+  "reason": "This is a bank refunding a fee, not an NSF event. Labeled nsf, it inflates the NSF count.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01887",
+  "business": "Sunny Side Bakery",
+  "date": "2026-08-28",
+  "amount": "100.0",
+  "description": "EARNIN DES:ACTIVEHOURS ID:613989",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "EarnIn ActiveHours debit repays an earned-wage advance.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01894",
+  "business": "Sunny Side Bakery",
+  "date": "2026-08-31",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 553834",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Squarespace is a website subscription the business pays for (a debit), not a sales settlement.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01899",
+  "business": "Sunny Side Bakery",
+  "date": "2026-09-02",
+  "amount": "63.97",
+  "description": "PAYPAL *BETMGM 104324",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_gambling",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "BetMGM is an online sportsbook paid through PayPal, so this is gambling.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01901",
+  "business": "Sunny Side Bakery",
+  "date": "2026-09-03",
+  "amount": "-100.0",
+  "description": "EARNIN DES:CASHOUT ID:150290",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "EarnIn cashout is an earned-wage advance, not a sale. Labeled none, it counts as revenue.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01915",
+  "business": "Sunny Side Bakery",
+  "date": "2026-09-10",
+  "amount": "75.22",
+  "description": "PAYPAL *BETMGM 461076",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_gambling",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "BetMGM is an online sportsbook paid through PayPal, so this is gambling.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01921",
+  "business": "Sunny Side Bakery",
+  "date": "2026-09-14",
+  "amount": "100.0",
+  "description": "EARNIN DES:ACTIVEHOURS ID:272892",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "EarnIn ActiveHours debit repays an earned-wage advance.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01931",
+  "business": "Sunny Side Bakery",
+  "date": "2026-09-18",
+  "amount": "-100.0",
+  "description": "EARNIN DES:CASHOUT ID:120700",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": true
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "EarnIn cashout is an earned-wage advance, not a sale. Labeled none, it counts as revenue.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01935",
+  "business": "Sunny Side Bakery",
+  "date": "2026-09-21",
+  "amount": "69.96",
+  "description": "PAYPAL *BETMGM 502181",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_gambling",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "BetMGM is an online sportsbook paid through PayPal, so this is gambling.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01940",
+  "business": "Sunny Side Bakery",
+  "date": "2026-09-22",
+  "amount": "24.99",
+  "description": "PLANET FITNESS DES:CLUB FEES",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": false,
+   "revenue": false
+  },
+  "confidence": 0.6,
+  "reason": "A gym membership is likely a personal expense, not a bakery cost.",
+  "applied": false
+ },
+ {
+  "transaction_id": "tx-01947",
+  "business": "Sunny Side Bakery",
+  "date": "2026-09-25",
+  "amount": "35.0",
+  "description": "OD ITEM CHARGE 738584",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "overdraft",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "OD item charge is an overdraft fee.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01954",
+  "business": "Sunny Side Bakery",
+  "date": "2026-09-29",
+  "amount": "94.79",
+  "description": "PAYPAL *BETMGM 275133",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_gambling",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "BetMGM is an online sportsbook paid through PayPal, so this is gambling.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01955",
+  "business": "Sunny Side Bakery",
+  "date": "2026-09-29",
+  "amount": "100.0",
+  "description": "EARNIN DES:ACTIVEHOURS ID:335217",
+  "engine": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": "hr_other",
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "EarnIn ActiveHours debit repays an earned-wage advance.",
+  "applied": true
+ },
+ {
+  "transaction_id": "tx-01959",
+  "business": "Sunny Side Bakery",
+  "date": "2026-09-30",
+  "amount": "23.0",
+  "description": "SQUARESPACE INC 633025",
+  "engine": {
+   "group": "revenue_verification",
+   "business": true,
+   "revenue": false
+  },
+  "proposed": {
+   "group": null,
+   "business": true,
+   "revenue": false
+  },
+  "confidence": 0.9,
+  "reason": "Squarespace is a website subscription the business pays for (a debit), not a sales settlement.",
+  "applied": true
+ }
+]
